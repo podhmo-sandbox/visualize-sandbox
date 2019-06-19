@@ -1,0 +1,6 @@
+pandas
+notebook
+sklearn
+nbreversible
+prestring
+
