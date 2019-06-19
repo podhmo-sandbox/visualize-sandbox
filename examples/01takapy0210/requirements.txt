@@ -1,0 +1,7 @@
+notebook
+seaborn
+matplotlib
+lightgbm
+
+nbreversible
+prestring

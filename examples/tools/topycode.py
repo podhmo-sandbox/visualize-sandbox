@@ -7,7 +7,7 @@ d = loading.loadfile(format="json")
 
 r = []
 for _, d in w.walk(d):
-    if d["language"] == "python":
+    if d["language"] == "python" or d["language"] == "py":
         r.append(d["lines"])
 
 m = Module()

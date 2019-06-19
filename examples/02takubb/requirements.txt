@@ -1,0 +1,9 @@
+notebook
+prestring
+nbreversible
+
+matplotlib
+pandas
+seaborn
+statsmodels
+scipy
